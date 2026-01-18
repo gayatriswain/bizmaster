@@ -1,6 +1,5 @@
 import React from 'react'
 import Marquee from "react-fast-marquee";
-import { Link } from 'react-router-dom';
 const ProcessThree = () => {
     return (
 
